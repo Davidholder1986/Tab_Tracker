@@ -1,2 +1,2 @@
 # Tab_Tracker
-A vue.js / express webproject folling the free code camp tutorial
+A vue.js / express webproject following the free code camp tutorial
